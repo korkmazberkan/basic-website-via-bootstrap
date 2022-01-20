@@ -1,0 +1,20 @@
+/* body {
+    background-color: lavender;
+    
+} */
+
+h1 {
+    margin-top: 64px;
+    color: darkorchid;
+    
+}
+
+h2 {
+    color: goldenrod;
+}
+
+.text-left {
+    margin-left: 24px;
+    margin-right: 10px;
+}
+
